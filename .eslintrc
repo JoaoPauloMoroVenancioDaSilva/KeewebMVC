@@ -65,5 +65,8 @@
     },
     "env": {
         "browser": true
+    },
+    "rules": {
+        "import/no-commonjs": "error"
     }
 }
